@@ -1,0 +1,7 @@
+exetool
+exetool.exe
+notes
+cruft
+*.core
+*.log
+*postactivate
