@@ -39,7 +39,7 @@ import (
 var cfgFile string
 
 var rootCmd = &cobra.Command{
-	Version: "0.0.1",
+	Version: "0.0.2",
 	Use:     "exetool",
 	Short:   "EXE file utility",
 	Long:    `Tools for working with EXE files`,
